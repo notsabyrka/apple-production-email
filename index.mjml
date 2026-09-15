@@ -16,20 +16,20 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#141415" padding="58px 24px 50px 24px">
+    <mj-section background-color="#141415" padding="58px 40px 40px">
       <mj-column width="100%">
 
         <mj-text font-size="40px" font-weight="700" line-height="120%">
           Our most stunning take<br />on post-production.
         </mj-text>
 
-        <mj-text padding-top="16px">
+        <mj-text padding-top="46px">
           <a href="#" style="color: #51ACFF; font-weight: 700; font-size: 15px; text-decoration: none;">
             Buy now &gt;
           </a>
         </mj-text>
 
-        <mj-image src="https://raw.githubusercontent.com/notsabyrka/apple-production-email/main/assets/product.png" alt="Product Display" width="549px" padding-top="40px" />
+        <mj-image src="https://raw.githubusercontent.com/notsabyrka/apple-production-email/main/assets/product.png" alt="Product Display" width="549px" padding-top="20px" />
 
       </mj-column>
     </mj-section>
