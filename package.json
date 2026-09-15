@@ -1,0 +1,25 @@
+{
+  "name": "apple-production-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mjml index.mjml -o index.html",
+    "watch": "mjml -w index.mjml -o index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notsabyrka/apple-production-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/notsabyrka/apple-production-email/issues"
+  },
+  "homepage": "https://github.com/notsabyrka/apple-production-email#readme",
+  "devDependencies": {
+    "mjml": "^5.4.1"
+  }
+}
