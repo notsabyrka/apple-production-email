@@ -37,8 +37,7 @@
     <mj-section background-color="#141415" padding="0px 24px 50px 24px">
       <mj-group width="418px">
 
-        <!-- Колонка 1 -->
-        <mj-column width="33.33%" vertical-align="bottom">
+        <mj-column width="96px" vertical-align="bottom">
           <mj-text align="left" font-size="10px" font-weight="400" padding-bottom="6px">
             up to
           </mj-text>
@@ -51,8 +50,7 @@
           <mj-divider align="left" border-width="4px" border-style="solid" border-color="#FDA472" width="96px" padding="0px" />
         </mj-column>
 
-        <!-- Колонка 2 -->
-        <mj-column width="33.33%" vertical-align="bottom">
+        <mj-column width="226px" vertical-align="bottom" padding="0 65px">
           <mj-text align="left" font-size="10px" font-weight="400" padding-bottom="6px">
             up to
           </mj-text>
@@ -65,8 +63,7 @@
           <mj-divider align="left" border-width="4px" border-style="solid" border-color="#FDA472" width="96px" padding="0px" />
         </mj-column>
 
-        <!-- Колонка 3 -->
-        <mj-column width="33.33%" vertical-align="bottom">
+        <mj-column width="96px" vertical-align="bottom">
           <mj-text align="left" font-size="10px" font-weight="400" padding-bottom="6px">
             up to
           </mj-text>
